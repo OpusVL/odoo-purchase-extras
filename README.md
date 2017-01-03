@@ -9,7 +9,7 @@ This module adds a 'form' tag and makes the form view the default for editing a 
 
 # Copyright and License
 
-Copyright (C) $year OpusVL
+Copyright (C) 2017 OpusVL
 
 ```
 This program is free software: you can redistribute it and/or modify
